@@ -1,0 +1,81 @@
+- generic [ref=f16e2]:
+  - generic [ref=f16e8]:
+    - paragraph [ref=f16e9]: HOME TRAINING ROUTINE
+    - heading "퇴근 후 30분, 집에서 끝내는 홈트레이닝 루틴" [level=1] [ref=f16e10]: 퇴근 후 30분,집에서 끝내는홈트레이닝 루틴
+    - paragraph [ref=f16e11]: 기구도, 헬스장도 필요 없습니다.맨몸운동만으로 전신을 자극하는 루틴을 소개합니다.
+    - generic [ref=f16e12]: → 다음으로 넘어가기
+  - generic:
+    - generic:
+      - paragraph: STEP 01
+      - heading "워밍업 5분" [level=2]
+      - paragraph: 본격적인 동작 전에 가볍게 몸을 풀어주세요.워밍업은 부상을 예방하고 운동 효율을 높여줍니다.
+      - generic:
+        - generic:
+          - generic: 🤸
+          - generic: 목·어깨 돌리기
+        - generic:
+          - generic: 🦵
+          - generic: 제자리 걷기
+        - generic:
+          - generic: 🔥
+          - generic: 가벼운 스트레칭
+  - generic:
+    - generic:
+      - paragraph: STEP 02
+      - heading "스쿼트·런지·힙브릿지 세 동작이면 충분" [level=2]: 스쿼트·런지·힙브릿지세 동작이면 충분
+      - generic:
+        - generic:
+          - generic: "01"
+          - heading "스쿼트" [level=3]
+          - paragraph: 하체 전체를 강화
+        - generic:
+          - generic: "02"
+          - heading "런지" [level=3]
+          - paragraph: 균형감각까지 강화
+        - generic:
+          - generic: "03"
+          - heading "힙브릿지" [level=3]
+          - paragraph: 코어와 허리를 강화
+      - generic:
+        - text: 💡 초보자는 각 동작
+        - strong: 25회 × 4세트
+        - text: ", 세트 사이"
+        - strong: 30초 휴식
+        - text: 으로 시작해보세요.
+  - generic:
+    - generic:
+      - paragraph: STEP 03
+      - heading "운동보다 중요한 건 회복" [level=2]
+      - paragraph:
+        - text: 근육은 운동이 아니라
+        - strong: 수면 중에
+        - text: 자랍니다.
+      - generic:
+        - generic: 🌙
+        - generic: Z Z Z
+      - paragraph: 오늘 30분을 채웠다면, 오늘 밤 숙면도루틴의 일부라는 것을 잊지 마세요.
+  - generic:
+    - generic:
+      - paragraph: SUMMARY
+      - heading "오늘부터 시작하는 나만의 30분 루틴" [level=2]: 오늘부터 시작하는나만의 30분 루틴
+      - list:
+        - listitem:
+          - generic: ✓
+          - text: 워밍업 5분
+        - listitem:
+          - generic: ✓
+          - text: 스쿼트·런지·힙브릿지 25회 × 4세트
+        - listitem:
+          - generic: ✓
+          - text: 오늘 밤 숙면까지가 루틴 완성
+      - paragraph: 기구도, 헬스장도 필요 없습니다.지금, 여기서 시작하세요.
+  - generic [ref=f16e13]:
+    - button "이전 슬라이드" [disabled] [ref=f16e14]: ‹
+    - generic [ref=f16e15]:
+      - generic [ref=f16e16] [cursor=pointer]
+      - generic [ref=f16e17] [cursor=pointer]
+      - generic [ref=f16e18] [cursor=pointer]
+      - generic [ref=f16e19] [cursor=pointer]
+      - generic [ref=f16e20] [cursor=pointer]
+    - button "다음 슬라이드" [ref=f16e21] [cursor=pointer]: ›
+  - generic [ref=f16e22]: 1 / 5

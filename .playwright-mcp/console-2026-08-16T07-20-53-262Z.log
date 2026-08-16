@@ -1,0 +1,3 @@
+[     162ms] [LOG] Deprecated as of 10.6.0. initHighlightingOnLoad() is deprecated.  Use highlightAll() instead. @ https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js:171
+[     228ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://aem-kakao-collector.onkakao.net/api/13528/envelope/?sentry_version=7&sentry_key=a8db199ab4d9487f97e8df418a9d79a5&sentry_client=sentry.javascript.react%2F8.42.0:0
+[    1427ms] [ERROR] Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ chrome-error://chromewebdata/:0
